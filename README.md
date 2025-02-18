@@ -1,4 +1,16 @@
-## Hi there 👋
+## Howdy :D
+
+## I'm Brandt
+
+- I am currently studying computer science
+- I am always ready to learn new information
+- Pronouns: he/him/his
+
+## Programming Languages
+-C++
+-Java (in-progress)
+-python (in-progress)
+
 
 <!--
 **RaisinBrandt/RaisinBrandt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
